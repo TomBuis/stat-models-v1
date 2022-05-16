@@ -27,7 +27,7 @@ By the end of this course, you will have learned how to use Generalized Linear M
 
 ### Linear models
 
-GLMMs are an extension of the General Linear Model that underlies simpler approaches such as ANOVA, t-test, and classical regression. The main conceit of this course is that **almost any data from almost any design you might encounter, can be analyzed using GLMMs**.
+GLMMs are an extension of the General Linear Model that underlies simpler approaches such as ANOVA, t-test, and classical regression. The main concept of this course is that **almost any data from almost any design you might encounter, can be analyzed using GLMMs**.
 
 A simple example of a linear model is
 
